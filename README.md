@@ -86,7 +86,7 @@
 
 ---
 
-# ✨ Frase
+
 
 <p align="center">
 
