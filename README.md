@@ -12,7 +12,7 @@
 
 # 🚀 Sobre mí
 
-- 🌱 Actualmente aprendiendo **HTML, CSS, JavaScript y Java**
+- 🌱 Conocimiento **HTML, CSS, JavaScript y Java**
 - 🎯 Mejorando mis habilidades en **Frontend**
 - 📚 Construyendo proyectos y fortaleciendo lógica de programación
 - ⚡ Interesado en crear interfaces modernas y funcionales
@@ -74,7 +74,7 @@
 
 <p align="center">
 
-<a href="mailto:TU_CORREO_AQUI">
+<a href="mailto:zuluagaj308@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
