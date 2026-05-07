@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola 👋 Soy Juan Zuluaga
 
-<!--
-**jzr1909/JZR1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de desarrollo de software
 
-Here are some ideas to get you started:
+## Tecnologías
+HTML | CSS | JavaScript | Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Actualmente aprendiendo
+Frontend, Backend y Git/GitHub
+
+## Proyectos destacados
+- Sistema de inventario
+- Menú restaurante
+
+## Contacto
+zuluagaj308@gmail.com
