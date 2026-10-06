@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, Soy Juan Andrés</h1>
+<h1 align="center">Hola 👋, Soy Juan Zuluaga</h1>
 
 <h3 align="center">
-💻 Estudiante de Desarrollo de Software | Frontend Developer en formación
+💻 Estudiante de Desarrollo de Software | BackEnd Developer en formación
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 # 🚀 Sobre mí
 
 - 🌱 Conocimiento **HTML, CSS, JavaScript y Java**
-- 🎯 Mejorando mis habilidades en **Frontend**
+- 🎯 Mejorando mis habilidades en **BackEnd**
 - 📚 Construyendo proyectos y fortaleciendo lógica de programación
 - ⚡ Interesado en crear interfaces modernas y funcionales
 
@@ -65,7 +65,7 @@
 
 - 💻 Sistema de inventario
 - 🍽️ Menú de restaurante
-- 🎨 Proyectos frontend
+- 🎨 Proyectos BackEnd
 - ☕ Ejercicios en Java
 
 ---
